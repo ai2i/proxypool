@@ -5,22 +5,17 @@
 // the-file-you-create.txt, tag=Sample
 ;shadowsocks=example.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=false, udp-relay=false, server_check_url=http://www.apple.com/generate_204, tag=ss-01
 
-ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDY2LjExNS4xNDcuNzk6Mzk3NzI=#66.115.147.79%3a39772
-trojan://bac72a5d-a888-4872-983e-0d1bfcb271bd@chinahumanr.ml:443#%f0%9f%87%af%f0%9f%87%b5+JP_1410+%7c+5.06Mb
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImYtaGFuZ3pob3UiLA0KICAiYWRkIjogInVzLjE5OTMwMS54eXoiLA0KICAicG9ydCI6ICIzMDAxMCIsDQogICJpZCI6ICJmZDAwOTI3YS1iMGMyLTQ2MjktYWVmNy1kOWZmMTVhOWQ3MjIiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ1cy4xOTkzMDEueHl6IiwNCiAgInBhdGgiOiAiL3dlYnNvY2tldCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+trojan://W3ADSjTHjxN3Nt28WC@pro-us1-4.sstr-api.xyz:443?sni=pro-us1-4.sstr-api.xyz#_134+%7c+2.31Mb
+trojan://205fcd78-8d48-4fbf-b6e7-1d6118ab4936@milkgogo.ga:443#%f0%9f%87%ba%f0%9f%87%b8+US_1361+%7c22.71Mb
+trojan://a12234e2-06fd-4fc3-ab44-c0cb3910dfc8@oracle-seoul-132.226.19.245.internet-cloudflare-accelerate.tk:443#%f0%9f%87%b3%f0%9f%87%b1+NL_1260+%7c+4.97Mb
+trojan://W3ADSjTHjxN3Nt28WC@pro-us1-1.sstr-api.xyz:443?sni=pro-us1-1.sstr-api.xyz#_133+%7c+5.09Mb
+trojan://W3ADSjTHjxN3Nt28WC@pro-us1-3.sstr-api.xyz:443?sni=pro-us1-3.sstr-api.xyz#_135+%7c10.10Mb
+trojan://dEdUDbf9vyvcXmXm@liuwei.yangxifang.tk:443#%f0%9f%87%ba%f0%9f%87%b8+US_1356+%7c+6.76Mb
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDE5OC4xNDcuMjIuODc6Mzk3NzI=#f-%f0%9f%87%ba%f0%9f%87%b8+US_1443
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDEwNy4xODEuMTY2LjU1OjMzOTky#%f0%9f%87%ba%f0%9f%87%b8+US_1406+%7c27.28Mb
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDY2LjExNS4xNDcuOTI6MzM5OTI=#66.115.147.92%3a33992
+trojan://W3ADSjTHjxN3Nt28WC@pro-us1-2.sstr-api.xyz:443?sni=pro-us1-2.sstr-api.xyz#_132+%7c+6.04Mb
 ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDEzOC4xOTkuMTkuMTM0OjM5Nzcy#138.199.19.134%3a39772
-trojan://5e0ccc1a-3914-41ec-a474-e065873e5341@milkgogo.ga:443#%f0%9f%87%af%f0%9f%87%b5+JP_1486+%7c28.62Mb
-ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDE0My4yNDQuNDIuOTY6Mzk3NzI=#143.244.42.96%3a39772-clone
-ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDY2LjExNS4xNDcuNjc6Mzk3NzI=#66.115.147.67%3a39772
-trojan://W3ADSjTHjxN3Nt28WC@pro-us1-1.sstr-api.xyz:443?sni=pro-us1-1.sstr-api.xyz#_132+%7c45.68Mb
-trojan://W3ADSjTHjxN3Nt28WC@pro-us1-4.sstr-api.xyz:443#Relay_%f0%9f%87%a9%f0%9f%87%aaDE-%f0%9f%8f%81ZZ_680-clone
-ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VTQDIuNTguMjQyLjQzOjM4MDMz#%e5%8f%b0%e6%b9%be1(Youtube%e9%a2%91%e9%81%93%ef%bc%9a%e5%b7%a5%e5%85%b7%e5%a4%a7%e5%b8%88i)
-ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDE1Ni4xNDYuNjIuNDE6Mzk3NzI=#156.146.62.41%3a39772
-trojan://35bfba98-1544-4bb4-9a19-0e3ea471cbdf@gmegme.ml:443#%f0%9f%87%af%f0%9f%87%b5+JP_1483+%7c28.75Mb
-trojan://560b1479-c052-4c65-83f4-95fa628ed785@trotro.ml:443#%f0%9f%87%af%f0%9f%87%b5+JP_1485+%7c30.01Mb
-trojan://fc2db962-679d-47d2-bfdc-48a56cddc6c7@chinahumanr.ml:443#%f0%9f%87%af%f0%9f%87%b5+JP_1487+%7c28.49Mb
-trojan://7950f6a2-ebd1-41f8-8aed-1bb6fcf350f4@xibun.gq:443#%f0%9f%87%af%f0%9f%87%b5+JP_1488+%7c28.84Mb
-trojan://98678463-dbe8-4f1d-a4c0-3e7694a4c4ed@fuckxijinping.ga:443#%f0%9f%87%af%f0%9f%87%b5+JP_1489+%7c17.15Mb
-trojan://e5220638-a228-4ee0-9c48-b9ba89eb7713@gmegme.tk:443#%f0%9f%87%ba%f0%9f%87%b8+US_1854+%7c+4.13Mb
-trojan://31f3bad8-da58-420a-8a98-88915b25182c@fuckxijinping.cf:443#%f0%9f%87%ba%f0%9f%87%b8+US_1855+%7c+7.55Mb
-trojan://661d4851-9791-45fa-b37e-c4681a03e552@gmegme.gq:443#%f0%9f%87%ba%f0%9f%87%b8+US_1857+%7c+9.46Mb
+
 
