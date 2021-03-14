@@ -5,17 +5,13 @@
 // the-file-you-create.txt, tag=Sample
 ;shadowsocks=example.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=false, udp-relay=false, server_check_url=http://www.apple.com/generate_204, tag=ss-01
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImYtaGFuZ3pob3UiLA0KICAiYWRkIjogInVzLjE5OTMwMS54eXoiLA0KICAicG9ydCI6ICIzMDAxMCIsDQogICJpZCI6ICJmZDAwOTI3YS1iMGMyLTQ2MjktYWVmNy1kOWZmMTVhOWQ3MjIiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ1cy4xOTkzMDEueHl6IiwNCiAgInBhdGgiOiAiL3dlYnNvY2tldCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-trojan://W3ADSjTHjxN3Nt28WC@pro-us1-4.sstr-api.xyz:443?sni=pro-us1-4.sstr-api.xyz#_134+%7c+2.31Mb
+trojan://beiyong@m.64678737946848.xyz:443#%f0%9f%87%ac%f0%9f%87%a7+GB_1193+%7c11.15Mb
 trojan://205fcd78-8d48-4fbf-b6e7-1d6118ab4936@milkgogo.ga:443#%f0%9f%87%ba%f0%9f%87%b8+US_1361+%7c22.71Mb
-trojan://a12234e2-06fd-4fc3-ab44-c0cb3910dfc8@oracle-seoul-132.226.19.245.internet-cloudflare-accelerate.tk:443#%f0%9f%87%b3%f0%9f%87%b1+NL_1260+%7c+4.97Mb
 trojan://W3ADSjTHjxN3Nt28WC@pro-us1-1.sstr-api.xyz:443?sni=pro-us1-1.sstr-api.xyz#_133+%7c+5.09Mb
 trojan://W3ADSjTHjxN3Nt28WC@pro-us1-3.sstr-api.xyz:443?sni=pro-us1-3.sstr-api.xyz#_135+%7c10.10Mb
-trojan://dEdUDbf9vyvcXmXm@liuwei.yangxifang.tk:443#%f0%9f%87%ba%f0%9f%87%b8+US_1356+%7c+6.76Mb
 ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDE5OC4xNDcuMjIuODc6Mzk3NzI=#f-%f0%9f%87%ba%f0%9f%87%b8+US_1443
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDEwNy4xODEuMTY2LjU1OjMzOTky#%f0%9f%87%ba%f0%9f%87%b8+US_1406+%7c27.28Mb
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDY2LjExNS4xNDcuOTI6MzM5OTI=#66.115.147.92%3a33992
 trojan://W3ADSjTHjxN3Nt28WC@pro-us1-2.sstr-api.xyz:443?sni=pro-us1-2.sstr-api.xyz#_132+%7c+6.04Mb
-ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDEzOC4xOTkuMTkuMTM0OjM5Nzcy#138.199.19.134%3a39772
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDIwNy4yNDQuNjcuMTQ5OjM5Nzcy#%f0%9f%87%ba%f0%9f%87%b8+US_1548+%7c39.69Mb
+
 
 
