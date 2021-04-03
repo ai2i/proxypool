@@ -5,6 +5,8 @@
 // the-file-you-create.txt, tag=Sample
 ;shadowsocks=example.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=false, udp-relay=false, server_check_url=http://www.apple.com/generate_204, tag=ss-01
 
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDIwNy4yNDQuNjcuMTQ5OjMzOTky#%f0%9f%87%ba%f0%9f%87%b8+US_1437+%7c15.27Mb
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjIwLeS7mOi0ueaOqOiNkDpzdW8ueXQvc3Nyc3ViIiwNCiAgImFkZCI6ICIxMDQuMTkuMy41NSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0Y2RiMDE2Zi1mMTRlLTMwYjMtOTdkNi00NTNjNzQxYTVjODAiLA0KICAiYWlkIjogIjEiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImZyZWUuZnJsaS54eXoiLA0KICAicGF0aCI6ICIveTQ3NSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDEwNy4xODEuMTY2LjU1OjMzOTky#%f0%9f%87%ba%f0%9f%87%b8+US_1406+%7c27.28Mb
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE0My4yNDQuNDIuNjY6NDAwOTM=#%f0%9f%87%ba%f0%9f%87%b8+Pool_%f0%9f%87%ba%f0%9f%87%b8US_2868
 ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDE1Ni4xNDYuNjIuNTQ6Mzk3NzI=#156.146.62.54%3a39772
